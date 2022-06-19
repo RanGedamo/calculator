@@ -1,0 +1,177 @@
+body{
+    background-color: black;
+}
+#box{
+    width: 50vw;
+    height: 60vh;
+    background-color: gainsboro;
+    position: fixed;
+    left:25vw;
+    top:16vh;
+    border: solid 1px black;
+    font-weight: bolder;
+}
+#result{
+    height: 20vh;
+    display: flex;
+    font-size: 35px;
+    transform: translate(10px,5px);
+    align-items: center;
+}
+#num1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#num2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#num3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#plus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#id_1{
+    display: flex;
+    width: 50vw;
+    height: 10vh;
+    text-align: center;
+}
+#id_2{
+    display: flex;
+    width: 50vw;
+    height: 10vh;
+    text-align: center;
+}
+#num4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#num5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#num6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#num-{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#id_3{
+    display: flex;
+    width: 50vw;
+    height: 10vh;
+    text-align: center;
+}
+#num7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#num8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#num9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#numKefel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#id_4{
+    display: flex;
+    width: 50vw;
+    height: 10vh;
+    text-align: center;
+}
+#numHiluk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#num0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#numAC{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+#numShave{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12.5vw;
+    height: 10vh;
+    border: 1px solid black;  
+}
+button:hover{
+    transition: 0.4s;
+    background:rgb(29, 26, 26);
+    color:white
+}
